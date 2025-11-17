@@ -15,7 +15,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url": "https://cb01net.cam",
+              "url": "https://cb01net.cfd",
               "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -23,7 +23,7 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url": "https://guardaserietv.wiki",
+              "url": "https://guardaserietv.wtf",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"1"
