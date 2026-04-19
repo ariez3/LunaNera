@@ -21,7 +21,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git remote get-url upstream || git remote add upstream https://github.com/UrloMythus/MammaMia.git
+          git remote get-url upstream || git remote add upstream https://github.com/ariez3/LunaNera.git
           git fetch upstream
 
           # Controlla se ci sono differenze PRIMA del reset
